@@ -1,0 +1,1120 @@
+{
+  "project_info": {
+    "project_number": "347355622673",
+    "project_id": "photomall6",
+    "storage_bucket": "photomall6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347355622673:android:b3d9a3a9bdb3ee246030b0",
+        "android_client_info": {
+          "package_name": "in.photomall.app.abcgoodluckphotography"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347355622673-gig98mqgdvdv77fsrn3efs7klreth7l9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.abcgoodluckphotography",
+            "certificate_hash": "13d3c2794d92e35c80b0fd4a07850da79b039ef4"
+          }
+        },
+        {
+          "client_id": "347355622673-vvnl01itas2ptl89nmshie02t340simo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwAqw8XnqAXRe-Mvf-WjTwYRIGMyygHPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347355622673-u9u33e496ib37fg3s07mt2glrd9951a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347355622673:android:5ed2594cb062aa996030b0",
+        "android_client_info": {
+          "package_name": "in.photomall.app.bestphotography"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347355622673-68uu438ak4aathca9n69o9s1pfrl7qa5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.bestphotography",
+            "certificate_hash": "3c892a7bfe20dc254e399b1e2d1f669f518a252b"
+          }
+        },
+        {
+          "client_id": "347355622673-vvnl01itas2ptl89nmshie02t340simo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwAqw8XnqAXRe-Mvf-WjTwYRIGMyygHPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347355622673-u9u33e496ib37fg3s07mt2glrd9951a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347355622673:android:7a9786c4f21637956030b0",
+        "android_client_info": {
+          "package_name": "in.photomall.app.crazyclickzstudio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347355622673-ld33i4kfnee39q60ucr8dvne7a7vbn03.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.crazyclickzstudio",
+            "certificate_hash": "573080b09e104f5cc5cacae6ef81bd50ed8a94f8"
+          }
+        },
+        {
+          "client_id": "347355622673-vvnl01itas2ptl89nmshie02t340simo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwAqw8XnqAXRe-Mvf-WjTwYRIGMyygHPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347355622673-u9u33e496ib37fg3s07mt2glrd9951a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347355622673:android:c7a398944ea4f91d6030b0",
+        "android_client_info": {
+          "package_name": "in.photomall.app.eagleeyephotography"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347355622673-lv0mtm5848an536cj1ic70gpfbouen6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.eagleeyephotography",
+            "certificate_hash": "dbb8b244143d93d55f48004163430add36fc85e7"
+          }
+        },
+        {
+          "client_id": "347355622673-vvnl01itas2ptl89nmshie02t340simo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwAqw8XnqAXRe-Mvf-WjTwYRIGMyygHPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347355622673-u9u33e496ib37fg3s07mt2glrd9951a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347355622673:android:a85b00829f0bbeec6030b0",
+        "android_client_info": {
+          "package_name": "in.photomall.app.firstepphotography"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347355622673-e1j764dgsas5e2la3e6f21nlisk5spia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.firstepphotography",
+            "certificate_hash": "65417957108dd55bc6dfe5f7c85839c6fad0b754"
+          }
+        },
+        {
+          "client_id": "347355622673-vvnl01itas2ptl89nmshie02t340simo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwAqw8XnqAXRe-Mvf-WjTwYRIGMyygHPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347355622673-u9u33e496ib37fg3s07mt2glrd9951a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347355622673:android:65a9a2eaf3da3c746030b0",
+        "android_client_info": {
+          "package_name": "in.photomall.app.framebygsk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347355622673-jo12dncl3kue47k8cie48g9gkc1va6ms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.framebygsk",
+            "certificate_hash": "ba57434ae1c198670733660acf790dcbe866506c"
+          }
+        },
+        {
+          "client_id": "347355622673-vvnl01itas2ptl89nmshie02t340simo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwAqw8XnqAXRe-Mvf-WjTwYRIGMyygHPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347355622673-u9u33e496ib37fg3s07mt2glrd9951a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347355622673:android:c9f7d6df89705a8e6030b0",
+        "android_client_info": {
+          "package_name": "in.photomall.app.gmaax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347355622673-8g4ped4j90icgdio52ufi7a9bvse8981.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.gmaax",
+            "certificate_hash": "cfd6702386e140826f132a089f6357e6d7e4df02"
+          }
+        },
+        {
+          "client_id": "347355622673-vvnl01itas2ptl89nmshie02t340simo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwAqw8XnqAXRe-Mvf-WjTwYRIGMyygHPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347355622673-u9u33e496ib37fg3s07mt2glrd9951a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347355622673:android:97455415287a0fb76030b0",
+        "android_client_info": {
+          "package_name": "in.photomall.app.gsharpstudios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347355622673-82avniddcnlp86v8ea82ctqii07u8d15.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.gsharpstudios",
+            "certificate_hash": "af4b37496e629c482ed00426fcb2ba522b8320bb"
+          }
+        },
+        {
+          "client_id": "347355622673-vvnl01itas2ptl89nmshie02t340simo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwAqw8XnqAXRe-Mvf-WjTwYRIGMyygHPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347355622673-u9u33e496ib37fg3s07mt2glrd9951a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347355622673:android:be317adf473afcb26030b0",
+        "android_client_info": {
+          "package_name": "in.photomall.app.heritagestudio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347355622673-hs1l6vj2f8rm66p14joha827gdpdm5an.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.heritagestudio",
+            "certificate_hash": "259c107104e76845a9743ce1ddd1b291ffe5bb66"
+          }
+        },
+        {
+          "client_id": "347355622673-vvnl01itas2ptl89nmshie02t340simo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwAqw8XnqAXRe-Mvf-WjTwYRIGMyygHPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347355622673-u9u33e496ib37fg3s07mt2glrd9951a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347355622673:android:9dfaaead76163ee36030b0",
+        "android_client_info": {
+          "package_name": "in.photomall.app.inspirephotography"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347355622673-1i15ll0i7apas02bpshg8c9hp92ojods.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.inspirephotography",
+            "certificate_hash": "c5964e9451c3229592aba9ffe3fa44e78ba616bc"
+          }
+        },
+        {
+          "client_id": "347355622673-vvnl01itas2ptl89nmshie02t340simo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwAqw8XnqAXRe-Mvf-WjTwYRIGMyygHPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347355622673-u9u33e496ib37fg3s07mt2glrd9951a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347355622673:android:ad891fa6360f0ae66030b0",
+        "android_client_info": {
+          "package_name": "in.photomall.app.jaihindhphotography"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347355622673-0co6vu8bl9p06feli4bvet7ln3fpkgjg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.jaihindhphotography",
+            "certificate_hash": "60bd4fce8c1b674b4f5e6ffcfb5168ab04ea97a9"
+          }
+        },
+        {
+          "client_id": "347355622673-vvnl01itas2ptl89nmshie02t340simo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwAqw8XnqAXRe-Mvf-WjTwYRIGMyygHPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347355622673-u9u33e496ib37fg3s07mt2glrd9951a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347355622673:android:4ed4d318150628856030b0",
+        "android_client_info": {
+          "package_name": "in.photomall.app.kaviyaphotography"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347355622673-i1a523j3v05gmp3p130k3cbu823snaj3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.kaviyaphotography",
+            "certificate_hash": "4d7e188621079979c382b6619ac113c36000aa9d"
+          }
+        },
+        {
+          "client_id": "347355622673-vvnl01itas2ptl89nmshie02t340simo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwAqw8XnqAXRe-Mvf-WjTwYRIGMyygHPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347355622673-u9u33e496ib37fg3s07mt2glrd9951a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347355622673:android:68b0f1ca0b358aa06030b0",
+        "android_client_info": {
+          "package_name": "in.photomall.app.kingjudhaphotography"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347355622673-j21uijqoi9a6oln354omkh7319gtfd2n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.kingjudhaphotography",
+            "certificate_hash": "565ac25138b72df6b26ad10788d600b46bcba29c"
+          }
+        },
+        {
+          "client_id": "347355622673-vvnl01itas2ptl89nmshie02t340simo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwAqw8XnqAXRe-Mvf-WjTwYRIGMyygHPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347355622673-u9u33e496ib37fg3s07mt2glrd9951a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347355622673:android:18b627cc266148536030b0",
+        "android_client_info": {
+          "package_name": "in.photomall.app.ledaphotography"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347355622673-gon1ussgbabglrb86isrd8ks3nlekq36.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.ledaphotography",
+            "certificate_hash": "758e4ce1682028a294d42b7b5b26ec0091c42015"
+          }
+        },
+        {
+          "client_id": "347355622673-vvnl01itas2ptl89nmshie02t340simo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwAqw8XnqAXRe-Mvf-WjTwYRIGMyygHPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347355622673-u9u33e496ib37fg3s07mt2glrd9951a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347355622673:android:056d41adade82c7e6030b0",
+        "android_client_info": {
+          "package_name": "in.photomall.app.maduraiclickz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347355622673-4cg2ks1lvrclco5llovt6am6e9sgakno.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.maduraiclickz",
+            "certificate_hash": "a15b0cfd0cff5d2eb95afb53d5ea81465dcd5ea0"
+          }
+        },
+        {
+          "client_id": "347355622673-vvnl01itas2ptl89nmshie02t340simo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwAqw8XnqAXRe-Mvf-WjTwYRIGMyygHPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347355622673-u9u33e496ib37fg3s07mt2glrd9951a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347355622673:android:b504985a7a9f46b36030b0",
+        "android_client_info": {
+          "package_name": "in.photomall.app.mallikarjunadigitalstudio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347355622673-6i7fv2noi5du2rvase3f27qg9987qomt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.mallikarjunadigitalstudio",
+            "certificate_hash": "991f5ef70ff51907088a328f02fbd4aa4e1de4b2"
+          }
+        },
+        {
+          "client_id": "347355622673-vvnl01itas2ptl89nmshie02t340simo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwAqw8XnqAXRe-Mvf-WjTwYRIGMyygHPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347355622673-u9u33e496ib37fg3s07mt2glrd9951a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347355622673:android:12e8ea667716be756030b0",
+        "android_client_info": {
+          "package_name": "in.photomall.app.megafocusphotography"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347355622673-r9sn0sklqquetnmfk1pbhl3g9tpkm95j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.megafocusphotography",
+            "certificate_hash": "0eeb0fca4a1273e27679b605bdf55e99b49980f5"
+          }
+        },
+        {
+          "client_id": "347355622673-vvnl01itas2ptl89nmshie02t340simo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwAqw8XnqAXRe-Mvf-WjTwYRIGMyygHPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347355622673-u9u33e496ib37fg3s07mt2glrd9951a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347355622673:android:22b1fee0717299286030b0",
+        "android_client_info": {
+          "package_name": "in.photomall.app.mercurycreationn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347355622673-sclkiigpup9gjmmdtpatkd09a49dvehh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.mercurycreationn",
+            "certificate_hash": "590816be3e66e229832ab2cbecff17f4fb0cfd2f"
+          }
+        },
+        {
+          "client_id": "347355622673-vvnl01itas2ptl89nmshie02t340simo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwAqw8XnqAXRe-Mvf-WjTwYRIGMyygHPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347355622673-u9u33e496ib37fg3s07mt2glrd9951a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347355622673:android:a85bcbfdf8aae39a6030b0",
+        "android_client_info": {
+          "package_name": "in.photomall.app.nextgenstudio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347355622673-d484uitttf83b7odi2p6m20ijp46vl5q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.nextgenstudio",
+            "certificate_hash": "b9fe095dfa43143fc3c28146479d14d2a2554feb"
+          }
+        },
+        {
+          "client_id": "347355622673-vvnl01itas2ptl89nmshie02t340simo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwAqw8XnqAXRe-Mvf-WjTwYRIGMyygHPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347355622673-u9u33e496ib37fg3s07mt2glrd9951a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347355622673:android:cdd5f8c3fae4498e6030b0",
+        "android_client_info": {
+          "package_name": "in.photomall.app.prathibimba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347355622673-k8sr3rm6q6dih584tc1anv0ue0hdiub1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.prathibimba",
+            "certificate_hash": "789c31a6fa475a0db7b885b8665bf607387740ee"
+          }
+        },
+        {
+          "client_id": "347355622673-vvnl01itas2ptl89nmshie02t340simo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwAqw8XnqAXRe-Mvf-WjTwYRIGMyygHPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347355622673-u9u33e496ib37fg3s07mt2glrd9951a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347355622673:android:2e0727c51001a7e06030b0",
+        "android_client_info": {
+          "package_name": "in.photomall.app.priyadigital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347355622673-b58ka8l7o172vv34e90b0gempv9tousr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.priyadigital",
+            "certificate_hash": "dbb8b244143d93d55f48004163430add36fc85e7"
+          }
+        },
+        {
+          "client_id": "347355622673-vvnl01itas2ptl89nmshie02t340simo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwAqw8XnqAXRe-Mvf-WjTwYRIGMyygHPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347355622673-u9u33e496ib37fg3s07mt2glrd9951a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347355622673:android:c4406cc37df6989e6030b0",
+        "android_client_info": {
+          "package_name": "in.photomall.app.raghuveerphotography"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347355622673-nl0ep8ebqsbq947upk00tohdme9g00bh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.raghuveerphotography",
+            "certificate_hash": "970a4236e1d76a3265860bee1b4b5910181758c4"
+          }
+        },
+        {
+          "client_id": "347355622673-vvnl01itas2ptl89nmshie02t340simo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwAqw8XnqAXRe-Mvf-WjTwYRIGMyygHPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347355622673-u9u33e496ib37fg3s07mt2glrd9951a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347355622673:android:6e406c6745c5839b6030b0",
+        "android_client_info": {
+          "package_name": "in.photomall.app.shutteronstudio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347355622673-ofp2ukitu2i570e3ki9erv3tp7tdf8sk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.shutteronstudio",
+            "certificate_hash": "a69e196c4fafa5aa4bcddc2b3e3bb443aeaca643"
+          }
+        },
+        {
+          "client_id": "347355622673-vvnl01itas2ptl89nmshie02t340simo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwAqw8XnqAXRe-Mvf-WjTwYRIGMyygHPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347355622673-u9u33e496ib37fg3s07mt2glrd9951a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347355622673:android:90f507e6f224434a6030b0",
+        "android_client_info": {
+          "package_name": "in.photomall.app.smilingstarstudios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347355622673-7lce7lrkmo23tu500vkq2bh8r5bngc7s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.smilingstarstudios",
+            "certificate_hash": "f89689fb687ecf585d6cdcfdd4cd5cf8c1316815"
+          }
+        },
+        {
+          "client_id": "347355622673-vvnl01itas2ptl89nmshie02t340simo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwAqw8XnqAXRe-Mvf-WjTwYRIGMyygHPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347355622673-u9u33e496ib37fg3s07mt2glrd9951a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347355622673:android:dd5d7ee27e9c7a6e6030b0",
+        "android_client_info": {
+          "package_name": "in.photomall.app.srigowristudio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347355622673-do82e5j4p4j3putl4g6esr6ev4h10p6e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.srigowristudio",
+            "certificate_hash": "cf174f76d1d2a9774a0b097b72b6140b912c0032"
+          }
+        },
+        {
+          "client_id": "347355622673-vvnl01itas2ptl89nmshie02t340simo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwAqw8XnqAXRe-Mvf-WjTwYRIGMyygHPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347355622673-u9u33e496ib37fg3s07mt2glrd9951a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347355622673:android:557e1937703e50516030b0",
+        "android_client_info": {
+          "package_name": "in.photomall.app.srivenkateshwarastudio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347355622673-ua09dcpd3i6lect7gpum1bip1f36u4au.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.srivenkateshwarastudio",
+            "certificate_hash": "e762e669f73eb8750cbad4286a4d76b5ca5885e7"
+          }
+        },
+        {
+          "client_id": "347355622673-vvnl01itas2ptl89nmshie02t340simo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwAqw8XnqAXRe-Mvf-WjTwYRIGMyygHPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347355622673-u9u33e496ib37fg3s07mt2glrd9951a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347355622673:android:c772f0bcb9e3002f6030b0",
+        "android_client_info": {
+          "package_name": "in.photomall.app.studiodaynight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347355622673-agnav66hs8oq08n7jsm7i5mna7smd6g0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.studiodaynight",
+            "certificate_hash": "65d3a1febdd28c303a567145addf250d0b5e8a03"
+          }
+        },
+        {
+          "client_id": "347355622673-vvnl01itas2ptl89nmshie02t340simo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwAqw8XnqAXRe-Mvf-WjTwYRIGMyygHPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347355622673-u9u33e496ib37fg3s07mt2glrd9951a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347355622673:android:6accc59ec7464a246030b0",
+        "android_client_info": {
+          "package_name": "in.photomall.app.tistudio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347355622673-92h1f97ict0g8krkafgaf7l8t9j22gos.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.tistudio",
+            "certificate_hash": "c6bacb07d53e80964abb21d4a52fdf61a3cd97bd"
+          }
+        },
+        {
+          "client_id": "347355622673-vvnl01itas2ptl89nmshie02t340simo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwAqw8XnqAXRe-Mvf-WjTwYRIGMyygHPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347355622673-u9u33e496ib37fg3s07mt2glrd9951a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347355622673:android:729c7a0bece699b46030b0",
+        "android_client_info": {
+          "package_name": "in.photomall.app.wowheephotography"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347355622673-ofmv6rqe5gt0ham5tkrucgiflh1p67nn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.wowheephotography",
+            "certificate_hash": "80ac2453c5f5e1b63048011691fa32ae79879d3c"
+          }
+        },
+        {
+          "client_id": "347355622673-vvnl01itas2ptl89nmshie02t340simo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwAqw8XnqAXRe-Mvf-WjTwYRIGMyygHPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347355622673-u9u33e496ib37fg3s07mt2glrd9951a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347355622673:android:b8612434f4b9033c6030b0",
+        "android_client_info": {
+          "package_name": "in.photomall.app.yabeshphotography"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347355622673-kt47vfa99c7qgsm5nuheribaralu7f54.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.yabeshphotography",
+            "certificate_hash": "e06a26940857cd1205c21074bb15e3833325f27e"
+          }
+        },
+        {
+          "client_id": "347355622673-vvnl01itas2ptl89nmshie02t340simo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwAqw8XnqAXRe-Mvf-WjTwYRIGMyygHPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347355622673-u9u33e496ib37fg3s07mt2glrd9951a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,253 @@
+name: photomall_flutter
+description: A new Flutter application.
+
+version: 1.0.0+367
+
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_localizations:
+    sdk: flutter
+
+  #flutter_cupertino_localizations: ^1.0.1
+
+  http: ^1.1.0
+  shared_preferences: ^2.0.20
+  device_info_plus: ^11.3.0
+  flutter_custom_clippers: ^2.1.0
+  #pod_player: ^0.2.2
+  #video_player: ^2.8.1
+  last_pod_player: ^0.0.5
+  youtube_explode_dart: ^2.0.1
+  font_awesome_flutter: ^10.4.0
+  sms_autofill: ^2.4.1
+  eva_icons_flutter: ^3.1.0
+  share_plus: ^11.0.0
+  provider: ^6.1.1
+  sqflite: ^2.3.0
+  path: ^1.9.0
+  #is_lock_screen: ^2.0.0
+  path_provider: ^2.1.5
+  cupertino_icons: ^1.0.4
+  internet_connection_checker: ^3.0.1
+  android_play_install_referrer: ^0.4.0
+  package_info_plus: ^8.0.0
+  launch_app_store: ^1.1.2
+  url_launcher: ^6.1.10
+  photo_view: ^0.15.0
+  intl: ^0.19.0
+  #disk_space: any
+  cached_network_image: ^3.3.0
+  flutter_cache_manager: ^3.3.0
+  mobile_scanner: ^6.0.10
+  permission_handler: ^12.0.1
+  flutter_staggered_grid_view: 0.7.0
+  dots_indicator: ^4.0.1
+  googleapis: ^14.0.0
+  googleapis_auth: ^2.0.0
+  process_run: ^1.2.2+1
+  scrollable_positioned_list: ^0.3.8
+  image_size_getter: ^2.1.3
+  slugify_string: 2.0.0
+  #country_calling_code_picker: 2.0.1
+  image_watermark: ^0.1.0
+  screenshot: ^3.0.0
+  expandable_page_view: ^1.0.17
+  connectivity_plus: ^6.0.3
+  app_links: ^6.4.0
+  animate_do: ^4.2.0
+  shimmer: ^3.0.0
+  flutter_datetime_picker: ^1.5.1
+  image_picker: ^1.0.5
+  image_cropper: ^9.1.0
+  add_2_calendar: ^3.0.1
+  ticket_material: 0.3.1
+  jelly_anim: 0.0.7
+  image: ^4.2.0 # can't update depends watermark pub dev
+  #disk_space_plus: ^0.2.4
+  get_it: ^8.2.0
+  toast: 0.3.0
+  universal_io: ^2.2.0
+  firebase_core: ^4.0.0
+  firebase_messaging: ^16.0.0
+  firebase_crashlytics: ^5.0.0
+  firebase_analytics: ^12.0.0
+  flutter_local_notifications: ^19.4.0
+  drift: ^2.28.1
+  sqlite3_flutter_libs: ^0.5.38
+  flutter_rating_bar: ^4.0.1
+  another_flushbar: ^1.12.29
+  truecaller_sdk: ^1.0.1
+  mime: ^2.0.0
+  #flutter_riverpod: ^2.4.8
+  dropdown_button2: ^2.3.9
+  whatsapp_unilink: ^2.1.0
+  screen_protector: ^1.2.0
+  curved_navigation_bar: ^1.0.3
+  introduction_screen: ^3.1.12
+  extended_icon_button: ^1.0.0
+  circular_profile_avatar: ^2.0.5
+  tap_debouncer: ^2.2.0
+  flutter_animate: ^4.3.0
+  youtube_player_flutter: ^9.1.1
+  scrollable: ^1.0.4
+  flutter_dropdown: ^1.0.1+hotfix.1
+  image_gallery_saver_plus: ^4.0.1
+  uuid: ^4.2.1
+  _fe_analyzer_shared: ^85.0.0
+  meta: ^1.10.0
+  material_color_utilities: ^0.11.1
+  cookie_jar: ^4.0.8
+  webview_flutter: ^4.4.2
+  bookfx: ^0.0.2
+  audioplayers: ^6.0.0
+  showcaseview: ^4.0.1
+  fluttertoast: any
+  firebase_core_dart: ^1.0.1
+  firebase_auth: ^6.0.0
+  glass_kit: ^4.0.1
+  flutter_animated_button: ^2.0.4
+  pluto_menu_bar: ^3.0.1
+  popover: ^0.3.0
+  galleryimage: ^2.0.1
+  animated_notch_bottom_bar: ^1.0.2
+  ken_burns_slideshow: ^1.0.1
+  flutter_carousel_widget: ^3.1.0
+  flutter_card_swiper: ^7.0.0
+  dropdown_search: ^6.0.2
+  #flutter_native_timezone: ^2.0.0
+  #iso_countries: ^2.2.0
+  timezone_to_country: ^3.0.0
+  #flutter_file_downloader: any
+  sliver_snap: ^2.1.1
+  #giffy_dialog: ^2.1.0
+  #rive_common:
+  quick_actions: ^1.0.7
+  double_back_to_close_app: ^2.1.0
+  google_sign_in: ^6.2.2
+  sign_in_button: ^4.0.1
+  icons_plus: ^5.0.0
+  get: ^4.6.6
+  animated_introduction: ^1.0.4
+  toastification: ^3.0.3
+  buttons_tabbar: ^1.3.13
+  face_camera: ^0.1.2
+  flutter_pannable_rating_bar: ^2.7.2+1
+  skeletonizer: ^1.4.2
+  intl_utils: ^2.8.7
+  device_preview: ^1.2.0
+  flutter_datetime_picker_plus: ^2.2.0
+  thanos_snap_effect: ^0.0.6
+  custom_refresh_indicator: ^4.0.1
+  workmanager: ^0.7.0
+  flutter_snake_navigationbar: ^0.6.1
+  loading_animation_widget: ^1.3.0
+  lottie: ^3.1.3
+  animated_custom_hint_textfield: ^0.0.6
+  animated_text_kit: ^4.2.2
+  table_calendar: ^3.1.3
+  confetti: ^0.8.0
+  flutter_svg: ^2.0.17
+  pretty_animated_buttons: ^0.0.2
+  google_nav_bar: ^5.0.7
+  connectivity_watcher: ^3.0.1
+  zoom_tap_animation: ^1.1.0
+  devicelocale: ^0.8.0
+  google_mlkit_barcode_scanning: ^0.13.0
+  qr_flutter: ^4.1.0
+  vimeo_video_player: ^1.0.1
+  collection: ^1.19.0
+  super_tooltip: ^2.1.0
+
+
+
+dependency_overrides:
+  firebase_core_platform_interface: 6.0.0
+  #rive: 0.13.2
+
+
+
+
+dev_dependencies:
+
+  flutter_test:
+    sdk: flutter
+
+
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/studio_logo.png"
+
+flutter:
+  shaders:
+  - packages/thanos_snap_effect/shader/thanos_snap_effect.glsl
+
+  uses-material-design: true
+  generate: true
+  assets:
+    - assets/images/
+    - assets/music/
+    - assets/animations/
+   # - assets/my_database.db
+
+  # - images/a_dot_ham.jpeg
+
+
+  fonts:
+    - family: Lato
+      fonts:
+        - asset:  assets/fonts/Lato-Black.ttf
+        - asset:  assets/fonts/Lato-Light.ttf
+    #         style: italic
+    - family: Montserrat
+      fonts:
+        - asset: assets/fonts/Montserrat-Black.ttf
+        - asset: assets/fonts/Montserrat-Medium.ttf
+    #         weight: 700
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/Roboto-Light.ttf
+        - asset: assets/fonts/Roboto-Regular.ttf
+    - family: OpenSans
+      fonts:
+        - asset: assets/fonts/OpenSans-Light.ttf
+        - asset: assets/fonts/OpenSans-Regular.ttf
+        - asset: assets/fonts/OpenSans-Bold.ttf
+        - asset: assets/fonts/OpenSans-BoldItalic.ttf
+        - asset: assets/fonts/OpenSans-ExtraBold.ttf
+        - asset: assets/fonts/OpenSans-ExtraBoldItalic.ttf
+        - asset: assets/fonts/OpenSans-Semibold.ttf
+        - asset: assets/fonts/OpenSans-SemiboldItalic.ttf
+    - family: FFF
+      fonts:
+        - asset: assets/fonts/FFF_Tusj.ttf
+
+    - family: Arizonia
+      fonts:
+        - asset: assets/fonts/Arizonia-Regular.ttf
+
+    - family: ProductSans
+      fonts:
+        - asset: assets/fonts/ProductSans-Regular.ttf
+        - asset: assets/fonts/ProductSans-Bold.ttf
+        - asset: assets/fonts/ProductSans-BoldItalic.ttf
+        - asset: assets/fonts/ProductSans-Italic.ttf
+
+
+  #flutter_intl:
+
+  #  enabled: true # Required. Must be set to true to activate the plugin. Default: false
+  #  class_name: S # Optional. Sets the name for the generated localization class. Default: S
+  #  main_locale: en # Optional. Sets the main locale used for generating localization files. Provided value should comply with ISO-639-1 and ISO-3166-1 (e.g. "en", "en_GB"). Default: en
+flutter_intl:
+  enabled: true
+
+

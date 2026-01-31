@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Photomall-->
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorPrimary">#0C0B0B</color>
+    <color name="colorAccent">#FEC832</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+
+    <color name="app_theme_color">@color/white</color>
+    <color name="transperant_bg_color">@android:color/transparent</color>
+
+    <color name="photomall_color">@color/colorAccent</color>
+
+    <color name="button_background">@color/colorPrimary</color>
+    <color name="side_drawer_bg_color">@color/colorPrimary</color>
+    <color name="side_drawer_icon_color">@color/white</color>
+    <color name="side_drawer_text_color">@color/white</color>
+    <color name="side_drawer_icon_selected_color">@color/colorAccent</color>
+    <color name="side_drawer_text_selected_color">@color/colorAccent</color>
+
+    <color name="curl_fab_color">@color/colorAccent</color>
+    <color name="curl_fab_icon_color">@color/colorPrimary</color>
+
+    <color name="curl_guideView_color">@color/colorAccent</color>
+    <color name="curl_guideView_text_color">@color/colorPrimary</color>
+    <color name="custom_toast_color">@color/colorPrimary</color>
+    <color name="otp_title_color">#FEB018</color>
+
+    <color name="edit_icon_circle_color">@color/colorAccent</color>
+    <color name="spinner_enable_color">#B5EE8A</color>
+    <color name="side_drawer_and_toolbar_font">#ffffff</color>
+    <color name="font_heading">#00293C</color>
+
+    <color name="blue_default">#3F51B5</color>
+    <color name="transparent_grey">#77353232</color>
+    <color name="transparent_grey_logout">#77000000</color>
+    <color name="gray">#cccccc</color>
+
+    <color name="app_icon_background_color">#ffffff</color>
+
+</resources>

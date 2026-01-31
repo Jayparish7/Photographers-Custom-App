@@ -1,0 +1,882 @@
+{
+  "project_info": {
+    "project_number": "438296830410",
+    "project_id": "photomall8",
+    "storage_bucket": "photomall8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438296830410:android:79f32b3d1ea7f8ea3fef33",
+        "android_client_info": {
+          "package_name": "in.photomall.app.dhinakarstudio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438296830410-0fchg4ph33q7beb7hkq6plrlk5cpq21r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.dhinakarstudio",
+            "certificate_hash": "84417af6c7cfbedda752ac24eeb045611b77620c"
+          }
+        },
+        {
+          "client_id": "438296830410-ge519v71npqrei80veoi0t274r1pbn3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbjkCJOFLBmXHc6SZxCiSrxKibTHllvkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438296830410-ge519v71npqrei80veoi0t274r1pbn3o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "438296830410-4e2km5nicii89scco1c0u00tioob4hmc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.photomall.app.photomallmobileflutter.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438296830410:android:7d60c6e880437bc73fef33",
+        "android_client_info": {
+          "package_name": "in.photomall.app.idealweddings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438296830410-n0lha0fa8gaeninfjvgrn4l2qb4gdgoh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.idealweddings",
+            "certificate_hash": "16cdb7b1167932d65503b0de925a8a92356bd612"
+          }
+        },
+        {
+          "client_id": "438296830410-ge519v71npqrei80veoi0t274r1pbn3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbjkCJOFLBmXHc6SZxCiSrxKibTHllvkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438296830410-ge519v71npqrei80veoi0t274r1pbn3o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "438296830410-4e2km5nicii89scco1c0u00tioob4hmc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.photomall.app.photomallmobileflutter.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438296830410:android:c74313f895ac5f1b3fef33",
+        "android_client_info": {
+          "package_name": "in.photomall.app.lankgastudio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438296830410-paacni4jrlo99t3cs17gcag4me0suroc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.lankgastudio",
+            "certificate_hash": "51cce061495a9dde6730fb344da71cf003e2b284"
+          }
+        },
+        {
+          "client_id": "438296830410-ge519v71npqrei80veoi0t274r1pbn3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbjkCJOFLBmXHc6SZxCiSrxKibTHllvkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438296830410-ge519v71npqrei80veoi0t274r1pbn3o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "438296830410-4e2km5nicii89scco1c0u00tioob4hmc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.photomall.app.photomallmobileflutter.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438296830410:android:35510934485eaa7d3fef33",
+        "android_client_info": {
+          "package_name": "in.photomall.app.lensplayphotography"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438296830410-ge519v71npqrei80veoi0t274r1pbn3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbjkCJOFLBmXHc6SZxCiSrxKibTHllvkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438296830410-ge519v71npqrei80veoi0t274r1pbn3o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "438296830410-4e2km5nicii89scco1c0u00tioob4hmc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.photomall.app.photomallmobileflutter.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438296830410:android:f22a55fc032a8dd03fef33",
+        "android_client_info": {
+          "package_name": "in.photomall.app.mstudio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438296830410-mf49aom9f57u85t2t9ttns8na9h7pb9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.mstudio",
+            "certificate_hash": "7cf6fb5b0a05fb4272cdada71a0dfa5828ac5f9b"
+          }
+        },
+        {
+          "client_id": "438296830410-ge519v71npqrei80veoi0t274r1pbn3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbjkCJOFLBmXHc6SZxCiSrxKibTHllvkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438296830410-ge519v71npqrei80veoi0t274r1pbn3o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "438296830410-4e2km5nicii89scco1c0u00tioob4hmc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.photomall.app.photomallmobileflutter.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438296830410:android:88fb96da2d3801993fef33",
+        "android_client_info": {
+          "package_name": "in.photomall.app.pujadigitalstudio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438296830410-a53ejg7fmt2beqsvbpo0qulnk8ht4p02.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.pujadigitalstudio",
+            "certificate_hash": "5fa203c909baaacc6bf158f892967cc04397dd3d"
+          }
+        },
+        {
+          "client_id": "438296830410-ge519v71npqrei80veoi0t274r1pbn3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbjkCJOFLBmXHc6SZxCiSrxKibTHllvkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438296830410-ge519v71npqrei80veoi0t274r1pbn3o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "438296830410-4e2km5nicii89scco1c0u00tioob4hmc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.photomall.app.photomallmobileflutter.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438296830410:android:58a9634c8070ef193fef33",
+        "android_client_info": {
+          "package_name": "in.photomall.app.ramdigitalstudio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438296830410-up8pm268skcat5mgs4naeuc2it1k4f00.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.ramdigitalstudio",
+            "certificate_hash": "03b4f437d9fcb989169a0f19756e0499cbdc4d8b"
+          }
+        },
+        {
+          "client_id": "438296830410-ge519v71npqrei80veoi0t274r1pbn3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbjkCJOFLBmXHc6SZxCiSrxKibTHllvkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438296830410-ge519v71npqrei80veoi0t274r1pbn3o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "438296830410-4e2km5nicii89scco1c0u00tioob4hmc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.photomall.app.photomallmobileflutter.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438296830410:android:e4a9b1070c203e033fef33",
+        "android_client_info": {
+          "package_name": "in.photomall.app.raspictures"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438296830410-6grs42tvt8chbrb108j16p01qmgchmj2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.raspictures",
+            "certificate_hash": "b8028fe38292fea35d82468242796155ff7d9cc9"
+          }
+        },
+        {
+          "client_id": "438296830410-ge519v71npqrei80veoi0t274r1pbn3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbjkCJOFLBmXHc6SZxCiSrxKibTHllvkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438296830410-ge519v71npqrei80veoi0t274r1pbn3o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "438296830410-4e2km5nicii89scco1c0u00tioob4hmc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.photomall.app.photomallmobileflutter.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438296830410:android:876b4a01a7a269a43fef33",
+        "android_client_info": {
+          "package_name": "in.photomall.app.shreedigital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438296830410-s79emcg3ne0dn1rgm55l0c7oe4qf4l5s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.shreedigital",
+            "certificate_hash": "ac901578e02b95006c074c2f046061327769d5d4"
+          }
+        },
+        {
+          "client_id": "438296830410-ge519v71npqrei80veoi0t274r1pbn3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbjkCJOFLBmXHc6SZxCiSrxKibTHllvkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438296830410-ge519v71npqrei80veoi0t274r1pbn3o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "438296830410-4e2km5nicii89scco1c0u00tioob4hmc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.photomall.app.photomallmobileflutter.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438296830410:android:85b203f3c4fff2f83fef33",
+        "android_client_info": {
+          "package_name": "in.photomall.app.srivenkateshwerastudio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438296830410-o7r9dn9l7qvoa9rbqe5gbla869cqijee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.srivenkateshwerastudio",
+            "certificate_hash": "c79d908f9d42b4a1e96b135cb62b915005e8e9cf"
+          }
+        },
+        {
+          "client_id": "438296830410-ge519v71npqrei80veoi0t274r1pbn3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbjkCJOFLBmXHc6SZxCiSrxKibTHllvkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438296830410-ge519v71npqrei80veoi0t274r1pbn3o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "438296830410-4e2km5nicii89scco1c0u00tioob4hmc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.photomall.app.photomallmobileflutter.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438296830410:android:54e989e2339366253fef33",
+        "android_client_info": {
+          "package_name": "in.photomall.app.telugudesamparty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438296830410-nmoghqegb7pjda47f4jn3e2io1emmvam.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.telugudesamparty",
+            "certificate_hash": "699f984bb6fd541b19b2c77b09f3e8198c290efa"
+          }
+        },
+        {
+          "client_id": "438296830410-ge519v71npqrei80veoi0t274r1pbn3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbjkCJOFLBmXHc6SZxCiSrxKibTHllvkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438296830410-ge519v71npqrei80veoi0t274r1pbn3o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "438296830410-4e2km5nicii89scco1c0u00tioob4hmc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.photomall.app.photomallmobileflutter.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438296830410:android:41d07a0d13a6bb433fef33",
+        "android_client_info": {
+          "package_name": "in.photomall.app.threedotsadash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438296830410-6ltf1vfv9t95u44rfkhunnfg2vobvsju.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.threedotsadash",
+            "certificate_hash": "f36c5ec4869da0fb6ce1ef7199d3703af4e89867"
+          }
+        },
+        {
+          "client_id": "438296830410-ge519v71npqrei80veoi0t274r1pbn3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbjkCJOFLBmXHc6SZxCiSrxKibTHllvkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438296830410-ge519v71npqrei80veoi0t274r1pbn3o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "438296830410-4e2km5nicii89scco1c0u00tioob4hmc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.photomall.app.photomallmobileflutter.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438296830410:android:24e86d17cc7795743fef33",
+        "android_client_info": {
+          "package_name": "in.photomall.app.trendlyphotography"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438296830410-a65tptglebiebbrbu6v07cnh6kd3jk7g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.trendlyphotography",
+            "certificate_hash": "0e13017277886f4625e90a72d6d0e413fbb12f8a"
+          }
+        },
+        {
+          "client_id": "438296830410-ge519v71npqrei80veoi0t274r1pbn3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbjkCJOFLBmXHc6SZxCiSrxKibTHllvkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438296830410-ge519v71npqrei80veoi0t274r1pbn3o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "438296830410-4e2km5nicii89scco1c0u00tioob4hmc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.photomall.app.photomallmobileflutter.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438296830410:android:c81dd2feffa018ac3fef33",
+        "android_client_info": {
+          "package_name": "in.photomall.app.vasavicreations"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438296830410-vbvk4mtjcoi6m3qlumub0fsmps0ffkd6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.vasavicreations",
+            "certificate_hash": "254cc9892b4740c6e64ceb2937e99f415db41c15"
+          }
+        },
+        {
+          "client_id": "438296830410-ge519v71npqrei80veoi0t274r1pbn3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbjkCJOFLBmXHc6SZxCiSrxKibTHllvkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438296830410-ge519v71npqrei80veoi0t274r1pbn3o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "438296830410-4e2km5nicii89scco1c0u00tioob4hmc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.photomall.app.photomallmobileflutter.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438296830410:android:1cf0a9f32ed1f3963fef33",
+        "android_client_info": {
+          "package_name": "in.photomall.app.vintageshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438296830410-tngolk6j21gcgp6v3s06b00hkgs1nf1u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.vintageshare",
+            "certificate_hash": "957dd78d78812c6791494a343a7f1ea6daa948ad"
+          }
+        },
+        {
+          "client_id": "438296830410-ge519v71npqrei80veoi0t274r1pbn3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbjkCJOFLBmXHc6SZxCiSrxKibTHllvkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438296830410-ge519v71npqrei80veoi0t274r1pbn3o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "438296830410-4e2km5nicii89scco1c0u00tioob4hmc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.photomall.app.photomallmobileflutter.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438296830410:android:a854aa0af75a6bcb3fef33",
+        "android_client_info": {
+          "package_name": "in.photomall.app.vivaahvideotech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438296830410-g9cvrvjdko03de76g9bb2v1ch1v6udjv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.vivaahvideotech",
+            "certificate_hash": "816139f9c7fdb4956c7d5095864b971e4eda5790"
+          }
+        },
+        {
+          "client_id": "438296830410-ge519v71npqrei80veoi0t274r1pbn3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbjkCJOFLBmXHc6SZxCiSrxKibTHllvkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438296830410-ge519v71npqrei80veoi0t274r1pbn3o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "438296830410-4e2km5nicii89scco1c0u00tioob4hmc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.photomall.app.photomallmobileflutter.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438296830410:android:d1eb7505963f362c3fef33",
+        "android_client_info": {
+          "package_name": "in.photomall.app.vstudio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438296830410-8lnc8tp6lj4aag9e7q5t82b1heqacj8h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.vstudio",
+            "certificate_hash": "17dd455a397fdbbd2943d0ecf313472027162e9e"
+          }
+        },
+        {
+          "client_id": "438296830410-ge519v71npqrei80veoi0t274r1pbn3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbjkCJOFLBmXHc6SZxCiSrxKibTHllvkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438296830410-ge519v71npqrei80veoi0t274r1pbn3o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "438296830410-4e2km5nicii89scco1c0u00tioob4hmc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.photomall.app.photomallmobileflutter.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438296830410:android:0c1d0014048102843fef33",
+        "android_client_info": {
+          "package_name": "in.photomall.app.wedarryphotographyfilms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438296830410-1d81tr8djkjo93rt3l4hgu1uio3mjjms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.wedarryphotographyfilms",
+            "certificate_hash": "aac6a8c7c4db5158e4bcb10e4118e943db491afa"
+          }
+        },
+        {
+          "client_id": "438296830410-ge519v71npqrei80veoi0t274r1pbn3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbjkCJOFLBmXHc6SZxCiSrxKibTHllvkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438296830410-ge519v71npqrei80veoi0t274r1pbn3o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "438296830410-4e2km5nicii89scco1c0u00tioob4hmc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.photomall.app.photomallmobileflutter.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438296830410:android:9d97a43a9c1d99ad3fef33",
+        "android_client_info": {
+          "package_name": "in.photomall.app.weddinggharaana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438296830410-8arrfmumng1190u6ehe6iug06jl1ppl8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.weddinggharaana",
+            "certificate_hash": "b5f642a95dc5539ae3c7a0894802287d496c7eba"
+          }
+        },
+        {
+          "client_id": "438296830410-ge519v71npqrei80veoi0t274r1pbn3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbjkCJOFLBmXHc6SZxCiSrxKibTHllvkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438296830410-ge519v71npqrei80veoi0t274r1pbn3o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "438296830410-4e2km5nicii89scco1c0u00tioob4hmc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.photomall.app.photomallmobileflutter.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438296830410:android:71389ace1b2e7e923fef33",
+        "android_client_info": {
+          "package_name": "in.photomall.app.weddingphotographysensation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438296830410-c3l3m4m2soofdn03f5dbasr31afenggr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.app.weddingphotographysensation",
+            "certificate_hash": "2807036357577c1fb840d37f09608b373db6e13d"
+          }
+        },
+        {
+          "client_id": "438296830410-ge519v71npqrei80veoi0t274r1pbn3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbjkCJOFLBmXHc6SZxCiSrxKibTHllvkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438296830410-ge519v71npqrei80veoi0t274r1pbn3o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "438296830410-4e2km5nicii89scco1c0u00tioob4hmc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.photomall.app.photomallmobileflutter.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+
+    <dimen name="textbox_margin">32dp</dimen>
+    <dimen name="hint_textsize">10sp</dimen>
+    <dimen name="nav_drawer_width">260dp</dimen>
+    <dimen name="fragement_home_content_heading">23sp</dimen>
+    <dimen name="fragement_home_content_message">20sp</dimen>
+    <dimen name="medium">8dp</dimen>
+    <dimen name="onedp">2dp</dimen>
+    <dimen name="enquire_form_message_font_size">17sp</dimen>
+    <dimen name="fontawesome_font_size">18sp</dimen>
+
+    <dimen name="rate_app_content_size">25sp</dimen>
+
+    <dimen name="normal_text_size">20sp</dimen>
+
+    //DragFloatingActionButton
+    <dimen name="fab_size_normal1">56dp</dimen>
+    <dimen name="fab_size_mini1">40dp</dimen>
+
+    <dimen name="fab_icon_size">24dp</dimen>
+
+    <dimen name="fab_plus_icon_size">14dp</dimen>
+    <dimen name="fab_plus_icon_stroke">2dp</dimen>
+
+    <dimen name="fab_shadow_offset">3dp</dimen>
+    <dimen name="fab_shadow_radius">9dp</dimen>
+
+    <dimen name="fab_stroke_width">1dp</dimen>
+
+    <dimen name="fab_actions_spacing">16dp</dimen>
+    <dimen name="fab_labels_margin">8dp</dimen>
+
+    <!--Smsotpautofill-->
+
+    <dimen name="underline_stroke_width">2dp</dimen>
+    <dimen name="code_text_size">18sp</dimen>
+    <dimen name="standard_23">8dp</dimen>
+    <dimen name="standard_12">12dp</dimen>
+    <dimen name="standard_55">55dp</dimen>
+    <dimen name="standard_130">130dp</dimen>
+    <dimen name="standard_70">70dp</dimen>
+    <dimen name="standard_250">250dp</dimen>
+    <dimen name="standard_190">190dp</dimen>
+    <dimen name="standard_310">310dp</dimen>
+    <dimen name="standard_60">60dp</dimen>
+    <dimen name="standard_120">120dp</dimen>
+    <dimen name="standard_180">180dp</dimen>
+    <dimen name="standard_240">240dp</dimen>
+    <dimen name="standard_300">300dp</dimen>
+    <dimen name="standard_400">400dp</dimen>
+    <dimen name="standard_200">200dp</dimen>
+    <dimen name="twenty_dp">20dp</dimen>
+    <dimen name="thirty_dp">30dp</dimen>
+    <dimen name="ten_dp">10dp</dimen>
+    <dimen name="twelve_dp">12dp</dimen>
+    <dimen name="fiffteen_dp">15dp</dimen>
+    <dimen name="fifty_dp">50dp</dimen>
+    <dimen name="fourty_dp">40dp</dimen>
+    <dimen name="five_dp">5dp</dimen>
+    <dimen name="standard_100">100dp</dimen>
+    <dimen name="standard">45dp</dimen>
+    <dimen name="standard1">65dp</dimen>
+    <dimen name="standard2">165dp</dimen>
+    <dimen name="standard_right">150dp</dimen>
+    <dimen name="standard_150">160dp</dimen>
+    <dimen name="standard_80">80dp</dimen>
+    <dimen name="standard_290">290dp</dimen>
+    <dimen name="standard_50">50dp</dimen>
+    <dimen name="standard_170">170dp</dimen>
+    <dimen name="standard_185">185dp</dimen>
+    <dimen name="standard_350">350dp</dimen>
+
+    <dimen name="fab_size_mini" tools:override="true">2dp</dimen>
+    <dimen name="fab_content_size" tools:override="true">3dp</dimen>
+
+    <dimen name="side_drawer_text_size">12sp</dimen>
+    <dimen name="standard_40">40dp</dimen>
+    <dimen name="standard_280">280dp</dimen>
+    <dimen name="standard_230">230dp</dimen>
+    <dimen name="standard_220">220dp</dimen>
+    <dimen name="standard_320">320dp</dimen>
+    <dimen name="standard_260">260dp</dimen>
+    <dimen name="standard_270">270dp</dimen>
+
+
+    <!-- <dimen name="logo_width">200dp</dimen>
+     <dimen name="logo_height">160dp</dimen>-->
+
+    <dimen name="portrait_vertical_icon_x_axis">10dp</dimen>
+    <dimen name="portrait_horizontal_back_arrow_icon_y_axis">40dp</dimen>
+    <dimen name="portrait_horizontal_music_icon_y_axis">70dp</dimen>
+    <dimen name="portrait_horizontal_share_icon_y_axis">100dp</dimen>
+    <dimen name="portrait_horizontal_help_icon_y_axis">130dp</dimen>
+    <dimen name="portrait_image_icon_y_axis">70dp</dimen>
+    <dimen name="portrait_zoom_icon_y_axis">130dp</dimen>
+    <dimen name="portrait_left_icon_y_axis">190dp</dimen>
+    <dimen name="portrait_right_icon_y_axis">250dp</dimen>
+    <dimen name="portrait_music_icon_x_axis">65dp</dimen>
+    <dimen name="portrait_share_icon_x_axis">95dp</dimen>
+    <dimen name="portrait_help_icon_x_axis">125dp</dimen>
+    <dimen name="portrait_back_arrow_icon_x_axis">35dp</dimen>
+
+    <dimen name="square_vertical_icon_x_axis">20dp</dimen>
+    <dimen name="square_horizontal_back_arrow_icon_y_axis">70dp</dimen>
+    <dimen name="square_horizontal_music_icon_y_axis">120dp</dimen>
+    <dimen name="square_horizontal_share_icon_y_axis">170dp</dimen>
+    <dimen name="square_horizontal_help_icon_y_axis">220dp</dimen>
+    <dimen name="square_image_icon_y_axis">70dp</dimen>
+    <dimen name="square_zoom_icon_y_axis">130dp</dimen>
+    <dimen name="square_left_icon_y_axis">190dp</dimen>
+    <dimen name="square_right_icon_y_axis">250dp</dimen>
+    <dimen name="square_music_icon_x_axis">115dp</dimen>
+    <dimen name="square_share_icon_x_axis">165dp</dimen>
+    <dimen name="square_help_icon_x_axis">215dp</dimen>
+    <dimen name="square_back_arrow_icon_x_axis">65dp</dimen>
+</resources>

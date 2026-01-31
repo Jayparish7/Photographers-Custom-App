@@ -1,0 +1,125 @@
+<resources>
+
+    <string name="app_name">Shashini Photography</string>
+
+    <string name="path_prefix" translatable="false">/shas</string>
+
+    <string name="pre_design_path_prefix" translatable="false">ptml.in/shas</string>
+
+    <string name="app_link_path_prefix" translatable="false">shashiniphotography.com</string>
+
+    <string name="partnerKey" translatable="false">4bmcn3f6bqh9e6pc-k5e-yzxsauyxiv8r2i32vwbzy8</string>
+
+    <string name="download_textView">Downloading HD Images...</string>
+
+    <string name="please_wait">Please wait...</string>
+
+    <string name="is_on_1">is on</string>
+
+    <string name="i_am_on_1">I am on</string>
+
+    <string name="share_app_content_if_login_1">, suggest you to checkout this awesome app.</string>
+
+    <string name="share_album_content_if_login_1">, suggest you to checkout this event.</string>
+
+    <string name="share_album_content_if_not_login_1">. I suggest you to checkout this event.
+    </string>
+
+    <string name="share_app_content_if_not_login_1">. I suggest you to checkout this awesome app.
+    </string>
+
+    <string name="android_app_share_link">I have shared digital album with you. Kindly download the
+        Android app using the link
+    </string>
+
+    <string name="event_key_share_content">and use the event key</string>
+
+    <string name="share_content_common">to view the album or click the following link</string>
+
+    <string name="share_app_info">I\'m using this awesome app. Do check out!</string>
+
+    <string name="app_download" translatable="false">app-download</string>
+
+    <string name="main_folder_name">".photomall"</string>
+    <string name="source_folder_name">"original"</string>
+    <string name="source_originals_folder">"/"</string>
+    <string name="thumb_folder_name">"thumb"</string>
+
+    <string name="skip_textView">Skip</string>
+
+    <string name="try_to_connect" translatable="false">Try to connect Internet</string>
+
+    <string name="unable_to_download_album">Insufficient storage space</string>
+    <string name="unable_to_download_album_message">To download your photos kindly remove unwanted
+        or unused files from your mobile
+    </string>
+    <string name="unable_to_download_updated_album_message">Your mobile does not have enough storage
+        space to load updated album
+    </string>
+
+    <string name="enjoying_the_app" translatable="false">Enjoying the app?</string>
+
+    <string name="unable_to_download_event_message">To download your events kindly remove unwanted
+        or unused files from your mobile
+    </string>
+    <string name="unable_to_download_studio_gallery_event_message">To download gallery kindly remove
+        unwanted or unused files from yourmobile
+    </string>
+
+    <string name="retry">RETRY</string>
+    <string name="cancel">CANCEL</string>
+
+    <string name="no_images_available_in_album">"No images available in this album"</string>
+
+    <string name="no_internet">Oops, you\'re offline.\n Please check your internet connection and \n
+        try again.
+    </string>
+    <string name="you_are_offline">Oops, you\'re offline</string>
+    <string name="check_connection">Please check your internet connection\nand try again.</string>
+
+    <!--Guide View-->
+    <string name="show_image_view_slider_title">Are you in a hurry?</string>
+    <string name="show_image_view_slider_description">Click the thumbnail to view your favorite
+    </string>
+    <string name="zoom_image_view_title">For a bigger better view</string>
+    <string name="zoom_image_view_description">Zoom in or zoom out your image</string>
+    <string name="move_left_album_view_page_title">Missed something?</string>
+    <string name="move_left_album_view_page_description">Click to view your previous page</string>
+    <string name="move_right_album_view_page_title">What next?</string>
+    <string name="move_right_album_view_page_description">Click to view your next page</string>
+    <string name="listen_music_title">Keep your ears open?</string>
+    <string name="listen_music_description">Listen to music as you turn the pages of album</string>
+
+    <string name="back_press_title">Click here to go back</string>
+
+    <string name="share_event_title">Share Event</string>
+    <string name="share_event_description">Share your happiness with friends</string>
+
+    <string name="asset_statements">
+        [{
+        \"relation\": [\"delegate_permission/common.handle_all_urls\"],
+        \"target\": {
+        \"namespace\": \"web\",
+        \"site\": \"https://shashiniphotography.com\"
+        }
+        }]
+    </string>
+
+
+
+    <!--  <string name="asset_statements" translatable="false">
+     [{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "in.photomall.app.demostudio",
+    "sha256_cert_fingerprints":
+    ["7C:3A:95:2A:1D:E7:48:3B:3A:B0:AB:55:60:2E:A5:23:1E:41:DD:74:E1:FD:68:32:E4:7A:D9:06:81:71:1B:76"]
+  }
+}]
+    </string>-->
+
+</resources>
+
+
+

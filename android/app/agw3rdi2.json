@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "graceful-fin-442102-v2",
+  "private_key_id": "f1794d7e93b764856b32c657b3cd146c7dd58869",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQCwX7WcdUrqP80p\n5/ynAcKjWOiELYSHJHZdLRwf7i69V005ENhzcq8PmnesFcaFWEzuFQs+XUIcG/x5\nNgaZZ+q+DQu3+JIdxF6nDtWFz3cUPz7lVqCXeZK4y0EgWsOFMAiqe9sMrICKbtQ8\nJ0VKg1yKmgZZ8icF+DdLGQbRryyEEohKhLllk6FCO8TejpkL7PEbqNtMivCigz5B\nLd7PmGODiE+TMty1JiWJkEx2u3MXIIiTF/tJhKJPkDS4aoPfca9D7XGS2jfetnxE\n03Rj4zfix1Ldyy2l1Lol0m9L3yVRs8iLga4icdkrWfDgoVr2lq18QuCYW0JD5qZp\nd24WSMzZAgMBAAECgf8bbptoCiYNnm3qRXff57jEEl0VCJP/qs0xu9Uq5acPj2kF\nSGJnl+qqx27z2+AKLTXU8DcqT/agQhIpQT3mjcdCFR1zKm1H8eVbjMnPoEvEEXgM\nM5DXQ0h+QS9IkWoJNFlZAYz9HpKdfwgCMhlz2EpuK4aq1FGVkRj4A1JTw9Ul6aWi\n049pQF19Z1DGtCO8kg0zwO4tLJD9dp9Rygqks8xgT9nNNSylP1K2lvctrUr1wOub\nKkGIZCE9lJkKo+DmdTdDLsMJOpHA+OAv9hEmDdTh4BwkrsCvh4jWJnPHPblMY6ki\n46C8lbNH8S3P6nMkgijCjkkN3cfIVvkgJrZVQ4ECgYEA6dIAVaVRJokLov/eN0DD\nij/P4zB+wL3DLcudN0C9Y/YSE1Zxw3v5ozh1Ni+ba8nQ02AZqaQIJsMzCfB0fGy6\nx+PuGDK1L6kTXA0w4R/JhOvvQYqGwZfl4/4H/Qz65bUMR7l3DYVloikE3+FNm6CD\nfVJB1ZJBr5fs53jZk9jknokCgYEAwRqzlxxPzu6GR229gXXZQXeuf7bbPC5BRvMX\nfkUCMPYuVEHW9fD7w8NAjGVsOa8c52176/VkPiz0xz1owDktEP5yOwCprXsFmlFd\nMIdrIHcsHTvrofX/HndinkJiTJjQ5oYOAqFZdikz5dkcAEqXS/VKTyOLDAuk1LKi\nWhB4p9ECgYBI2ooIJY53d1QM4bSXerJyrRdVLpMP8xCRgFPoF1/reYyAQfsIceSC\nmuDKlWLT3voWImdcmCOCEGgivK1O54H7LmXNXF9gDkpd8C4+tuzPYcQWo9cBExcq\nRsiubBDw6cx9vKf/qoTUVfuS1lycFRNjRPIGXZ/h2nCSXvFMQ9RYIQKBgHieHR9+\nZ7tx8h4bxgtfeV0TTMQpi7eDjPKsVThiEoRSwY2Psp3c8OXOyDrp/zfo0b0c/hLd\nLMhJfHwXN58aF7RNuzxvpYzfExjZScROUfPtfHimPQDlj32QROFlxdDig1n60jWC\nY0cTZX9kpcDo1qhzhv73zJqxizvweMiZEUSBAoGBALJI7Sorzfs22XKUr1RsVZUZ\ni9eFLqG1ontDY/mrn2V4XU097jpqjj6eCPFlGULocWghSxd29aYySdt+h+jjSIRg\nKXtalk5eqAYOn5ze4kaXOyQPCmEDstjyI6RoyHoJLdOe0aafd3QVu2CJLuFfP2/D\ng++jgepLO6vWk06Bnixu\n-----END PRIVATE KEY-----\n",
+  "client_email": "ganeshdigital@graceful-fin-442102-v2.iam.gserviceaccount.com",
+  "client_id": "118066379503858996637",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ganeshdigital%40graceful-fin-442102-v2.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

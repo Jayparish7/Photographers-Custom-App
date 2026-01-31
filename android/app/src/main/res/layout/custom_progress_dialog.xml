@@ -1,0 +1,79 @@
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/progressDialog_linearLayout"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center">
+
+    <RelativeLayout
+        android:id="@+id/progressDialog_relativeLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent">
+
+        <!-- <ImageView
+                 android:id="@+id/progressDialog_imageView_logo"
+                 android:layout_width="60dp"
+                 android:layout_height="60dp"
+                 android:layout_centerInParent="true"
+                 android:src="@drawable/progress_logo" />
+
+         <ProgressBar
+                 android:id="@+id/progressDialog_progressBar_loading"
+                 style="?android:attr/progressBarStyleLarge"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:layout_centerInParent="true"
+                 android:indeterminateDrawable="@drawable/progress_loading" />-->
+
+        <in.photomall.photomall_flutter.utils.customProgressDialog.AVLoadingIndicatorView
+            android:id="@+id/avi"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            app:indicatorName="BallClipRotatePulseIndicator"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:indicatorColor="@color/white"
+            app:layout_constraintBottom_toBottomOf="parent"
+            style="@style/AVLoadingIndicatorView.Large"
+            />
+
+       <!-- "BallPulseIndicator", 1
+        "BallGridPulseIndicator", 2
+        "BallClipRotateIndicator", 3
+        "BallClipRotatePulseIndicator", 4
+        "SquareSpinIndicator", 5
+        "BallClipRotateMultipleIndicator", 6 //
+        "BallPulseRiseIndicator", 7
+        "BallRotateIndicator", 8
+        "CubeTransitionIndicator", 9
+        "BallZigZagIndicator", 10
+        "BallZigZagDeflectIndicator", 11
+        "BallTrianglePathIndicator", 12
+        "BallScaleIndicator", 13
+        "LineScaleIndicator", 14
+        "LineScalePartyIndicator", 15
+        "BallScaleMultipleIndicator", 16
+        "BallPulseSyncIndicator", 17
+        "BallBeatIndicator", 18
+        "LineScalePulseOutIndicator", 19
+        "LineScalePulseOutRapidIndicator", 20
+        "BallScaleRippleIndicator", 21
+        "BallScaleRippleMultipleIndicator", 22
+        "BallSpinFadeLoaderIndicator", 23
+        "LineSpinFadeLoaderIndicator", 24
+        "TriangleSkewSpinIndicator", 25
+        "PacmanIndicator", 26
+        "BallGridBeatIndicator",
+        "SemiCircleSpinIndicator",
+        "com.wang.avi.sample.MyCustomIndicator"
+-->
+
+    </RelativeLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

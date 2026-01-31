@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "phonic-oxide-425009-q7",
+  "private_key_id": "b6b3165956fbcaaffd52f981067aa17b6f9e6bb8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCebCv4rTZBrSfX\nyzzhVTE2ZLEcx2FRjgfT+J/athMymiJzz9pFFaXuAupeXp/NuzcwjPS4QcpzQVTW\nJTJJIzHA28jjzgLho2udFnfcwuLtOdiuohcoa2jAEzuEtpMS8PLJFkKrjgKAR2jQ\nlMmeBMCIAP48yCQcfhAWzr3b0xqJTDsxIEKUzYOLZQ5uHb+J3q9FNUrx3NVLxXfC\nnVpUoYhCsgMXSGTwcHFesNlI9BymvAiDcjCI31K31AjvYGhpXSdbPL4tv0bLZWUR\nhqsEMeAZUPVWcLkLOuxRmIkRaXNN9OwmZVljzIGPQ1jeSun2CKat06wezRAbrHPQ\nUHP01beBAgMBAAECggEAA49hPpWf5EJwpIYN8G9ia3tASqoFWxiSvvX1m6vfSxIR\nJ6KaYFaP88UPgL7mHvCv2RC12CUsWEI11pkf4+pdThzySwJAaNMsEivk1ipwAI49\n+xCr7g3Z3QUhn4Yd0H1nK1MrfOD0V+8i4RsS29D2BahmDjYeL6C6mlSbiiLYlBDA\nKuQAVDZe+BOn6jCTHSv0RO/388OhkMQe+cNgqRBg7qIgA71b97L+iybDJL0Vq6he\nPEgr6xCenS5uazySgnlItmCuV6lV1QB+GQiMTpfoNKIf2EPPWr04m8OlxEwEy9cM\nMP6KDJ9kkIylD4IucgX7lcmLIRXl/qlTMJD+ikyjhQKBgQDWuuEcQcwnMQ1nqg0c\nXmkY4l5gjnM3izOEYGpGzdxHXFsEM93WCTsJ/Dc6ZY2ZXYN30EE/xyh3EBBZvyJc\n2kwWlf7rRjxUAsJRCnyZTZAQps3oUW1Bw5TNkU8VC9mOp9qyfhahpzGlTTQZSmB7\n9WJe2tVa8J1OBk97SNXW4KXL/QKBgQC83twTNbl/CjslSyDhcWluE+HBXmaPeRiJ\nJ0xsqkRzQ2mzFLeoJBjl3C+baWEj25MPN9XddutzyU3829oj4uLLu+q9roJ4s0l/\nck6gkpHaemgy45zCJW+Q03M1ip5ZDIMfcjU+ru0iO4E28mQHJlambLgFBdq+d1g3\nbdnwEoxW1QKBgDZS6QiBDOkNW9rSBqcaq3QEMOQ0palzqgDfc4OeKRBUqSITDRhN\nFYadLEu1zXDzW4NASIGeHPqiMcDCvirHf2BnaiqThkequwZNpOAT41KTIJyZnQ56\nMHchP+SPLucMSCPICmmzJrgvI/MSAf7aQZzFuBxdqy5GIm2KK69E/izxAoGBAJA5\najqtEtpE+MdQqGofDZBGVGUx7gVvRmIthTmRh7Ww670Ze+lEr1KPojb98HTOTm0X\niROVpNSFCy2kwN4YenFzLRztbqo21lAg/JO3ePMp9/msP98tcRVZsqdXE/YSDOrt\nbmVQdLpoUBKiY+nlx9NMP/Vt9Azv24hwNTUTJOGFAoGBAMmRteRuEQl1gcrNpihU\ntDn2JjqkPop6SLo6jkVbQ40QCLhsFOWrpnkoD5AkFV5Mq3lAsCiI3wXdgK1Ydcu6\n7EDWzvc+oCeVijP/CMPyHmk3DoBtls9CqQ/Vaaj32Hfam0S72ZpHMBFl/5n1bCiO\nErBoDzHfOnRP8xpps7tBoU8J\n-----END PRIVATE KEY-----\n",
+  "client_email": "photomall@phonic-oxide-425009-q7.iam.gserviceaccount.com",
+  "client_id": "117394470497680501171",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/photomall%40phonic-oxide-425009-q7.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

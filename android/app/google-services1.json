@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "652737682220",
+    "firebase_url": "https://photomall-users-studioapps.firebaseio.com",
+    "project_id": "photomall-users-studioapps",
+    "storage_bucket": "photomall-users-studioapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652737682220:android:8f26903f319124b2036a89",
+        "android_client_info": {
+          "package_name": "in.photomall.photomall.user.sample.flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652737682220-squl0bde7phkjti40hqm5h1mtj8q1pmf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.photomall.photomall.user.sample.flutter",
+            "certificate_hash": "4b35b0cc8d549b565fdbb9fc2be96faf9cd40bd2"
+          }
+        },
+        {
+          "client_id": "652737682220-28cr7tvlv82qa90s18699pdm12j9rns8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw4ofzwUStCkC7ZohDXC7LOdEL-bcnnnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652737682220-28cr7tvlv82qa90s18699pdm12j9rns8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

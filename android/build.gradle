@@ -1,0 +1,62 @@
+
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+        //    jcenter()
+    }
+    subprojects {
+        afterEvaluate { project ->
+            if (project.hasProperty('android')) {
+                project.android {
+                    if (namespace == null) {
+                        namespace project.group
+                    }
+                }
+                def javaVersion = JavaVersion.VERSION_17
+                android {
+                    def androidApiVersion = 36
+                    compileSdkVersion androidApiVersion
+                    defaultConfig {
+                        targetSdkVersion androidApiVersion
+                    }
+                    compileOptions {
+                        sourceCompatibility javaVersion
+                        targetCompatibility javaVersion
+                    }
+                    tasks.withType(org.jetbrains.kotlin.gradle.tasks.KotlinCompile).configureEach {
+                        kotlinOptions {
+                            jvmTarget = javaVersion.toString()
+                        }
+                    }
+                    println("Setting java version to ${javaVersion.toString()} which is $javaVersion")
+                    println("Setting compileSdkVersion and targetSdkVersion to $androidApiVersion")
+                }
+
+            }
+        }
+    }
+}
+rootProject.buildDir = '../build'
+subprojects {
+    afterEvaluate { project ->
+        if (project.hasProperty('android')) {
+//            project.android {
+//                compileSdkVersion 35 // Set compile SDK version to 34 for all packages
+//                defaultConfig {
+//                    targetSdkVersion 35 // Set target SDK version to 34 for all packages
+//                }
+//            }
+        }
+    }
+}
+subprojects {
+    project.buildDir = "${rootProject.buildDir}/${project.name}"
+}
+subprojects {
+    project.evaluationDependsOn(':app')
+}
+
+tasks.register("clean", Delete) {
+    delete rootProject.buildDir
+}
